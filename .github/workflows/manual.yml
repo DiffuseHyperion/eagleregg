@@ -20,8 +20,8 @@ jobs:
     - name: download zip
       uses: montudor/action-zip@v1.0.0
     - name: zip files in bukkit-command
-      run: zip -r bukkit-command.zip /eagercraft/stable-download/java/bukkit-command
+      run: zip -r -j bukkit-command.zip /eagercraft/stable-download/java/bukkit-command
     - name: zip files in bungee-command
-      run: zip -r bungee-command.zip /eagercraft/stable-download/java/bungee-command
+      run: zip -r -j bungee-command.zip /eagercraft/stable-download/java/bungee-command
       
     
