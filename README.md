@@ -1,4 +1,7 @@
 # eagleregg
-Required files for pterodactyl eggs for eaglercraft's bungee and bukkit servers
+A repo of files for LAX1DUDE's Eaglercraft files.
+Updates happen when I do it, lazy to do github actions haha
 
-Find the json files in the releases tab
+Eaglercraft: https://github.com/LAX1DUDE/eaglercraft
+
+pterodactyl eggs currently outdated-ish, use with caution
